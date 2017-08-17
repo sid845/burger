@@ -4,11 +4,12 @@
   "description": "Week of 15 HW Node Express Handlebars",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Arthelj/burger"
+    "url": "git+https://github.com/Arthelj/burger.git"
   },
   "author": "",
   "license": "ISC",
