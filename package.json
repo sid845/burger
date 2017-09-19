@@ -1,22 +1,21 @@
 {
   "name": "burger",
   "version": "1.0.0",
-  "description": "Week of 15 HW Node Express Handlebars",
+  "description": "homework burger",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Arthelj/burger.git"
+    "url": "git+https://github.com/sid845/burger.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Arthelj/burger"
+    "url": "https://github.com/sid845/burger"
   },
-  "homepage": "https://github.com/Arthelj/burger",
+  "homepage": "https://github.com/sid845/burger",
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2",
