@@ -1,10 +1,10 @@
 {
   "name": "burger",
   "version": "1.0.0",
-  "description": "homework burger",
-  "main": "index.js",
+  "description": "",
+  "main": "node server.js",
   "scripts": {
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -13,17 +13,14 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sid845/burger"
+    "url": "https://github.com/sid845/burger/issues"
   },
-  "homepage": "https://github.com/sid845/burger",
+  "homepage": "https://github.com/sid845/burger#readme",
   "dependencies": {
-    "body-parser": "^1.17.1",
-    "express": "^4.15.2",
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
     "express-handlebars": "^3.0.0",
-    "method-override": "^2.3.8",
-    "mysql": "^2.13.0"
-  },
-  "devDependencies": {
-    "handlebars-helper-css": "^0.1.0"
+    "method-override": "^2.3.9",
+    "mysql": "^2.14.1"
   }
 }
